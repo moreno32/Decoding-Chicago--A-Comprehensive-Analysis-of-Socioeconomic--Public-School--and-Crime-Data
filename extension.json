@@ -1,0 +1,18 @@
+{
+    "builtin": "False",
+    "default_enabled": "True",
+    "type": "extension",
+    "rocket_mode_compatible": "True",
+    "name": "Decoding Chicago: A Comprehensive Analysis of Socioeconomic, Public School, and Crime Data",
+    "description": "In this project, we aim to shed light on the complex interplay between socioeconomic factors, public school performance, and crime trends in the city of Chicago.",
+    "author": "Daniel Moreno",
+    "author_profile": "www.linkedin.com/in/dmoreno-ai",
+    "url": "https://github.com/moreno32/Decoding-Chicago--A-Comprehensive-Analysis-of-Socioeconomic--Public-School--and-Crime-Data.git",
+    "website": "https://www.danielmoreno.com",
+    "image": "",
+    "templates": {
+        "author": "",
+        "docpath": ""
+    },
+    "dependencies": []
+}
